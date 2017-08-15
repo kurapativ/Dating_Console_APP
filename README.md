@@ -1,4 +1,4 @@
-# Dating_Console_APP
+# Dating_Console_App
 A Console Dating Application helps,
 1. Sending friend requests
 2. Adding Friends.
